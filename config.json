@@ -59,5 +59,25 @@
         }
       ]
     }
+    ,
+    {
+      "id": "fastapi-rest-api",
+      "title": "APIs REST com FastAPI",
+      "description": "Construir uma API REST simples com FastAPI: CRUD, validação e documentação automática.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2025-11-28",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
+    }
   ]
 }
